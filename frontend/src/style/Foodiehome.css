@@ -1,0 +1,92 @@
+.first_half {
+    /* margin: 0px 25px 0px 25px; */
+    display: flex;
+    /* align-items: center; */
+    margin: 0px 50px;
+
+}
+
+.task2 {
+    background-color: gold;
+}
+
+.task22 {
+    padding: 20px 30px;
+}
+
+.task22 button {
+    height: 60px;
+    width: 150px;
+    background-color: black;
+    color: white;
+    transition: .3s;
+    border: none;
+}
+
+.task22 button:hover {
+    background-color: orangered;
+}
+
+.bb {
+    display: flex;
+    margin-top: 222px;
+}
+
+.bb button {
+    height: 60px;
+    width: 245px;
+    background-color: white;
+    color: black;
+    transition: .3s;
+    border: none;
+}
+
+.bb button:hover {
+    background-color: black;
+    color: white;
+}
+
+/*second half*/
+.second_section h1{
+    margin: 20px 60px 0px 60px;
+}
+
+.second_half {
+    display: flex;
+    margin: 0px 50px;
+}
+
+.second_half1 {
+    display: flex;
+
+}
+.second_half_left h4{
+    margin: 0px 20px;
+}
+.second_half_left p{
+    margin: 0px 20px;
+}
+
+.second_half1 img {
+    height: 250px;
+    width: 300px;
+    border-radius: 5px;
+    margin: 20px;
+    
+}
+
+.second_half_right {
+    background-image: url('https://images.pexels.com/photos/4916562/pexels-photo-4916562.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1');
+    background-size: contain;
+    margin: 25px;
+    width: 650px;
+    border-radius: 10px;
+  
+}
+.s3 h2{
+    text-align: center;
+    color:white;
+    padding-top: 300px;
+    font-size: 50px;
+}
+

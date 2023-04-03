@@ -1,0 +1,19 @@
+.addpost1 {
+    display: flex;
+    margin: 30px 0px; 
+    justify-content: center;
+}
+.addpost_form input {
+ width: 600px;
+}
+.addpost_form{
+    margin-top: 20px;
+}
+.addpost_form{
+    margin-left: 20px;
+}
+.l1 img{
+    height: 650px;
+    width: 500px;
+
+}
